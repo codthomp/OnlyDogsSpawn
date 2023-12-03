@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\codyt\\source\\repos\\OnlyDogsSpawn\\OnlyDogsSpawn\\OnlyDogsSpawn.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\codyt\\source\\repos\\OnlyDogsSpawn\\OnlyDogsSpawn\\OnlyDogsSpawn.csproj",
-        "projectName": "LethalCompanyTemplate",
+        "projectName": "OnlyDogsSpawn",
         "projectPath": "C:\\Users\\codyt\\source\\repos\\OnlyDogsSpawn\\OnlyDogsSpawn\\OnlyDogsSpawn.csproj",
         "packagesPath": "C:\\Users\\codyt\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\codyt\\source\\repos\\OnlyDogsSpawn\\OnlyDogsSpawn\\obj\\",

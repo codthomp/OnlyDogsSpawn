@@ -1,6 +1,3 @@
-C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\LethalCompanyTemplate.deps.json
-C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\LethalCompanyTemplate.dll
-C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\LethalCompanyTemplate.pdb
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\Assembly-CSharp.dll
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\Unity.NetCode.Runtime.dll
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
@@ -45,5 +42,8 @@ C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\OnlyDogsSpawn.csproj.CoreCompileInputs.cache
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\OnlyDogsSpawn.sourcelink.json
 C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\OnlyDogsSpawn.csproj.CopyComplete
-C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\LethalCompanyTemplate.dll
-C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\LethalCompanyTemplate.pdb
+C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\OnlyDogsSpawn.deps.json
+C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\OnlyDogsSpawn.dll
+C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\bin\Debug\netstandard2.1\OnlyDogsSpawn.pdb
+C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\OnlyDogsSpawn.dll
+C:\Users\codyt\source\repos\OnlyDogsSpawn\OnlyDogsSpawn\obj\Debug\netstandard2.1\OnlyDogsSpawn.pdb

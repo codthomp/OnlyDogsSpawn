@@ -10,7 +10,7 @@ namespace OnlyDogsSpawn
         public static bool loaded;
         private const string modGUID = "Alphonso.OnlyDogsSpawn";
         private const string modName = "OnlyDogsSpawn";
-        private const string modVersion = "1.0.0";
+        private const string modVersion = "1.0.1";
 
         private readonly Harmony harmony = new Harmony(modGUID);
         private static OnlyDogsSpawn Instance;
@@ -26,9 +26,8 @@ namespace OnlyDogsSpawn
 
         [HarmonyPatch(typeof(RoundManager), nameof(RoundManager.LoadNewLevel))]
         [HarmonyPrefix]
-        static bool ModifyLevel(ref SelectableLevel newLevel)
+        static bool Only_Dogs_Spawn(ref SelectableLevel newLevel)
         {
-            HUDManager.Instance.AddTextToChatOnServer("<color=red>All Outside enemies are dogs</color>");
 
             foreach (var item in newLevel.OutsideEnemies)
             {
